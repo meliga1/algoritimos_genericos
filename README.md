@@ -338,6 +338,6 @@ Disciplina: Inteligência Artificial e Inteligência Computacional
 
 <div align="center">
 
-by Carlos Meliga, João Pedro dos Santos, Jossyane Gonçalves, e Darlan Alencar
+by Carlos Meliga
 
 </div>
