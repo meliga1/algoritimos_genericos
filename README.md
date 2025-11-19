@@ -17,8 +17,7 @@ Sistema inteligente de geração automática de grades horárias universitárias
 algoritimos_genericos/
 ├── algoritmo_genetico_grade.py    # Implementação completa do AG
 ├── relatorio_tecnico.md           # Documentação técnica detalhada
-├── README.md                      # Este arquivo
-└── requirements.txt               # Dependências do projeto
+├── README.md                      
 ```
 
 ### 📦 Arquivos Gerados (após execução)
