@@ -316,12 +316,9 @@ professores_aderencia = {
 
 ---
 
-## 🐛 Problemas Conhecidos
+## 👀 Observação
 
-- Em casos extremamente restritos, pode haver conflitos residuais (1-2)
-- Tempo de execução varia com complexidade da instância
-
-Observação (Windows): se o gráfico não abrir, ele ainda será salvo em `evolucao_fitness.png` no diretório do projeto.
+- Se o gráfico não abrir, ele ainda será salvo em `evolucao_fitness.png` no diretório do projeto (Windows).
 
 ---
 
