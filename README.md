@@ -322,44 +322,6 @@ professores_aderencia = {
 
 ---
 
-## 📚 Referências e Base Teórica
-
-Este projeto implementa conceitos fundamentais de:
-
-- **Algoritmos Genéticos** (Holland, 1975)
-- **Otimização Combinatória**
-- **Problemas de Satisfação de Restrições (CSP)**
-- **Timetabling Problem** (problema NP-completo)
-
-### Bibliografia Recomendada
-
-1. Goldberg, D. E. (1989). *Genetic Algorithms in Search, Optimization, and Machine Learning*
-2. Mitchell, M. (1998). *An Introduction to Genetic Algorithms*
-3. Burke, E. K., & Petrovic, S. (2002). *Recent research directions in automated timetabling*
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abrir um Pull Request
-
-### Áreas para Contribuição
-
-- 🎨 Melhorias na visualização
-- ⚡ Otimizações de performance
-- 🧪 Novos operadores genéticos
-- 📊 Análises estatísticas adicionais
-- 🌐 Interface web/GUI
-- 📱 Exportação para outros formatos
-
----
-
 ## 🐛 Problemas Conhecidos
 
 - Em casos extremamente restritos, pode haver conflitos residuais (1-2)
@@ -382,26 +344,8 @@ Disciplina: Inteligência Artificial e Inteligência Computacional
 
 ---
 
-## 🙏 Agradecimentos
-
-- Professor orientador da disciplina
-- UNIFESO - Centro Universitário Serra dos Órgãos
-- Comunidade Python e bibliotecas open-source
-
----
-
-## 📞 Contato e Suporte
-
-Para dúvidas, sugestões ou reportar problemas:
-- Abra uma [Issue](https://github.com/seu-usuario/algoritimos_genericos/issues)
-- Entre em contato via email acadêmico
-
----
-
 <div align="center">
 
-**⭐ Se este projeto foi útil, considere dar uma estrela!**
-
-Made with ❤️ and 🧬 by Carlos Meliga
+by Carlos Meliga
 
 </div>
