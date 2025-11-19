@@ -38,18 +38,13 @@ algoritimos_genericos/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/algoritimos_genericos.git
-cd algoritimos_genericos/files
+git clone https://github.com/meliga1/algoritimos_genericos.git
+cd algoritimos_genericos
 ```
 
 2. **Instale as dependências**
 ```bash
-pip install -r requirements.txt
-```
-
-Ou manualmente:
-```bash
-pip install numpy matplotlib pandas
+pip install numpy matplotlib
 ```
 
 ### Execução
@@ -325,7 +320,8 @@ professores_aderencia = {
 
 - Em casos extremamente restritos, pode haver conflitos residuais (1-2)
 - Tempo de execução varia com complexidade da instância
-- Pandas requerido para análises avançadas (instalação automática)
+
+Observação (Windows): se o gráfico não abrir, ele ainda será salvo em `evolucao_fitness.png` no diretório do projeto.
 
 ---
 
